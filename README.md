@@ -1,0 +1,1 @@
+Practice in golang with testing and proper code structure
