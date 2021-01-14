@@ -1,1 +1,1 @@
-Practice in golang with testing and proper code structure
+Practice in golang with testing and proper code structure with [mdwhatcott](https://github.com/mdwhatcott).
